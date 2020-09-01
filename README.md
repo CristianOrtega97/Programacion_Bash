@@ -2,6 +2,6 @@
 Learning path of scripting
 
 
-# Creacion de comentarios
-# Permisos
-# Variables
+- Creacion de comentarios
+- Permisos
+- Variables
